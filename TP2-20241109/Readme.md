@@ -11,8 +11,13 @@
         - question : chek le commentaire will : 
 
  
-# Partie 2
-    -
+# Partie 2 - Ce serait intéressant de regarder les notes de cours voir qui quelques indice sont donné pour analyser ces graphiques
+    - Q5 
+        - reponse boiteuse un peu
+    - Q6
+        - réponse un peu boiteuse, faut tu vraime tt l'analyser et comparer au moyennes, min et max de chaque charactéristique, ça m'a l'air plutot pain
+    - Q7
+        - encore une fois, peu de mots à dire
 
 # Partie 3
     -
