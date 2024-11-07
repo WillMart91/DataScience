@@ -20,4 +20,4 @@
         - encore une fois, peu de mots à dire
 
 # Partie 3
-    -
+    - j'ai essayer un grid search pour tester les combinaisons de n_cluster avc x_pca mais ça shie
